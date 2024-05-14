@@ -225,6 +225,10 @@ HTML:
     }
 }
 
+.dark-mode p{
+    color: #fff;
+}
+
 /* good commands in CSS is filter: ; and transform: ; very good for changing and making animations*/
 /* example filter: invert(1); who invert the color, and the transform: scale(1); you can change the scale(size) of img or object with the class or id, whatever */
 
